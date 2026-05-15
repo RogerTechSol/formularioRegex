@@ -176,8 +176,9 @@ input[type="tel"] {
     transition: background-color 0.3s ease;
 }
 
+
 .correct {
-    outline: 4px solid #4CAF50;
+    outline: 4px dashed #4CAF50;
 }
 
 .incorrect {
@@ -186,7 +187,11 @@ input[type="tel"] {
 
 .show-information {
     display: block;
+    color:  black;;
 }
+
+
+
 
 
 /* --- ESTILOS PARA EL ENLACE DEL FOOTER --- */
